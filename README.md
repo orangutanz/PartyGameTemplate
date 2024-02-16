@@ -1,6 +1,6 @@
 This is a standalone party game framwork project from an internal project(UTO8).
 
-The design is for the party games to not use PlayerController/PlayerState/GameInstance/GameModes. The framework is for different party games to run within game. 
+The design is for the party games to not use PlayerController/PlayerState/GameInstance/GameModes. The framework is for different party games to run within game.
 
 
 What's included:
@@ -20,6 +20,7 @@ What's not included:
 	
 1.Party room match making system
 
-
 中文文件 Documents in Traditional Chinese:
 https://drive.google.com/file/d/1_g3dGmnhNMXkXOfOQeCJwsd0NGulaofj/view?usp=drive_link
+
+This project is made with C++/Blueprint.
